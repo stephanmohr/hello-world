@@ -1,2 +1,2 @@
 # hello-world
-i'm a slave of the tutorial
+i'm a slave to the tutorial
